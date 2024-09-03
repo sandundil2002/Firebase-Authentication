@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/fireba
 
 import {
   getAuth,
-  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
 } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-auth.js";
 
 const firebaseConfig = {
@@ -20,22 +20,23 @@ const app = initializeApp(firebaseConfig);
 // Initialize Firebase Authentication and get a reference to the service
 const auth = getAuth(app);
 
-//signup function
+//login function
 document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("btn-signup").addEventListener("click", (e) => {
-    const email = document.getElementById("sign-email").value;
-    const password = document.getElementById("sign-password").value;
+  document.getElementById("btn-login").addEventListener("click", (e) => {
+    const email = document.getElementById("login-username").value;
+    const password = document.getElementById("login-password").value;
 
-    createUserWithEmailAndPassword(auth, email, password)
-      .then(() => {
-        alert("User created");
-        document.getElementById("btn-login").click();
+    signInWithEmailAndPassword(auth, email, password)
+      .then((userCredential) => {
+        alert("User logged in");
+        const user = userCredential.user;
+        console.log("Logged in as:", user.email);
       })
-
       .catch((error) => {
         const errorCode = error.code;
         const errorMessage = error.message;
         console.log(errorCode, errorMessage);
+        alert("Error logging in: " + errorMessage);
       });
   });
 });
