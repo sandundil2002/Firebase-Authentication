@@ -14,33 +14,31 @@
     <section>
         <div class="form-box">
             <div class="form-value">
-                <form action="">
+                <div>
                     <h2>Sign Up</h2>
     
                     <div class="inputbox">
                         <i class="fa-solid fa-envelope"></i>
-                        <input type="email" required>
+                        <input type="email" id="sign-email" autocomplete="current-username" required>
                         <label for="">Email</label>
                     </div><br>
     
                     <div class="inputbox">
                         <i class="fa-solid fa-lock"></i>
-                        <input type="password" required>
+                        <input type="password" id="sign-password" autocomplete="current-password" required>
                         <label for="">Password</label>
                     </div><br>
     
-                    <button>Sign Up</button>
+                    <button id="btn-signup">Sign Up</button>
     
                     <div class="register">
                         <p>Already have an account? <a href="../index.html">Login</a></p>
                     </div>
-                </form>
+                </d>
             </div>
         </div>
     </section>
     
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
     <script type="module" src="../js/app.js"></script>
 </body>
 </html>
