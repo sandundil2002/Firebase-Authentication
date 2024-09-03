@@ -18,13 +18,12 @@ Here're some of the project's best features:
 *   Secure Authentication: Passwords are securely hashed and managed by Firebase Authentication.
 
 <h2>Project Screenshots:</h2>
-<h2>Project Screenshots:</h2>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff3_20240903T194931353Z_dvfv73.png?alt=media&amp;token=ef40b8bc-24df-4dc2-847f-fc5cae1be5f2" alt="project-screenshot" width="800" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff3_20240903T194931353Z_dvfv73.png?alt=media&amp;token=ef40b8bc-24df-4dc2-847f-fc5cae1be5f2" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff1_20240903T194409829Z_ydvbrh.png?alt=media&amp;token=d7e467f0-599a-4143-afe6-933a65436af0" alt="project-screenshot" width="800" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff1_20240903T194409829Z_ydvbrh.png?alt=media&amp;token=d7e467f0-599a-4143-afe6-933a65436af0" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff2_20240903T194447200Z_monllq.png?alt=media&amp;token=982ad488-047b-482a-9334-b0c770603e31" alt="project-screenshot" width="800" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff2_20240903T194447200Z_monllq.png?alt=media&amp;token=982ad488-047b-482a-9334-b0c770603e31" alt="project-screenshot" width="700" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
