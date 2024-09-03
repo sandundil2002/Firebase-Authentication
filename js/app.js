@@ -28,8 +28,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     createUserWithEmailAndPassword(auth, email, password)
       .then(() => {
-        alert("User created");
-        document.getElementById("btn-login").click();
+        swal({
+          title: "Success!",
+          text: "User registered successfully!",
+          icon: "success",
+          buttons: false,
+          timer: 3000,
+        }).then(() => {
+          window.location.href = "/index.html";
+        });
       })
 
       .catch((error) => {

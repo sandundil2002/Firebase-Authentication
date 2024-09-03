@@ -28,9 +28,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
-        alert("User logged in");
-        const user = userCredential.user;
-        console.log("Logged in as:", user.email);
+        swal({
+          title: "Success!",
+          text: "User login successfully!",
+          icon: "success",
+          buttons: false,
+          timer: 3000,
+        }).then(() => {
+          const user = userCredential.user;
+          console.log("Logged in as:", user.email);
+        });
       })
       .catch((error) => {
         const errorCode = error.code;
