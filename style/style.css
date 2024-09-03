@@ -92,7 +92,7 @@ button {
     margin-top: 20px;
 }
 
-button:hover{
+button:hover {
     background: transparent;
     color: #fff;
     border: 1px solid #fff;
