@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&width=835&height=70&lines=Firebase+Authentication" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ffirebase-auth_20240903T194032928Z_0etmzm.png?alt=media&token=7552072f-f42a-4cbf-8d6a-74ca7a886165" alt="project-image"></p>
+<p align="center"><img src="../Firebase-Authentication/assets/firebase-auth.png" alt="project-image"></p>
 
 <p id="description">This project is an authentication system built with Firebase Authentication. It allows users to securely sign up log in manage their profiles and handle user data in real-time leveraging Firebase Realtime Database and Storage for seamless and secure data management.</p>
 
@@ -19,11 +19,11 @@ Here're some of the project's best features:
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff3_20240903T194931353Z_dvfv73.png?alt=media&amp;token=ef40b8bc-24df-4dc2-847f-fc5cae1be5f2" alt="project-screenshot" width="700" height="400/">
+<img src="../Firebase-Authentication/assets/f1.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff1_20240903T194409829Z_ydvbrh.png?alt=media&amp;token=d7e467f0-599a-4143-afe6-933a65436af0" alt="project-screenshot" width="700" height="400/">
+<img src="../Firebase-Authentication/assets/f2.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/safe-share-d3d50.appspot.com/o/uploads%2Fsandundil2002_gmail_com%2Ff2_20240903T194447200Z_monllq.png?alt=media&amp;token=982ad488-047b-482a-9334-b0c770603e31" alt="project-screenshot" width="700" height="400/">
+<img src="../Firebase-Authentication/assets/f3.png" alt="project-screenshot" width="700" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
