@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&width=835&height=70&lines=Firebase+Authentication" alt="Typing SVG" /></a>
 
-<p align="center"><img src="../Firebase-Authentication/assets/firebase-auth.png" alt="project-image"></p>
+<p align="center"><img src="/assets/firebase-auth.png" alt="project-image"></p>
 
 <p id="description">This project is an authentication system built with Firebase Authentication. It allows users to securely sign up log in manage their profiles and handle user data in real-time leveraging Firebase Realtime Database and Storage for seamless and secure data management.</p>
 
@@ -19,11 +19,11 @@ Here're some of the project's best features:
 
 <h2>Project Screenshots:</h2>
 
-<img src="../Firebase-Authentication/assets/f1.png" alt="project-screenshot" width="700" height="400/">
+<img src="/assets/f1.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="../Firebase-Authentication/assets/f2.png" alt="project-screenshot" width="700" height="400/">
+<img src="/assets/f2.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="../Firebase-Authentication/assets/f3.png" alt="project-screenshot" width="700" height="400/">
+<img src="/assets/f3.png" alt="project-screenshot" width="700" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
